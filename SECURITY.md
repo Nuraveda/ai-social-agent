@@ -2,7 +2,7 @@
 
 ## Reporting a vulnerability
 
-Email `support@meshpilot.app` with the subject line `[security] ai-social-agent: <short summary>`.
+Email `help.nuraveda@gmail.com` with the subject line `[security] ai-social-agent: <short summary>`.
 
 Please do not open a public issue for security reports. We aim to acknowledge within 72 hours.
 

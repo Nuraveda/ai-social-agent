@@ -35,4 +35,4 @@ By contributing you agree your contributions are licensed under [MIT](LICENSE).
 
 ## Questions
 
-Open an issue. For private inquiries: `support@meshpilot.app`.
+Open an issue. For private inquiries: `help.nuraveda@gmail.com`.

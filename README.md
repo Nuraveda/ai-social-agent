@@ -73,7 +73,7 @@ Bug reports + PRs welcome. See [CONTRIBUTING.md](CONTRIBUTING.md) for the contri
 
 ## Security
 
-Security reports go to `support@meshpilot.app` — see [SECURITY.md](SECURITY.md). Please do not open public issues for vulnerabilities.
+Security reports go to `help.nuraveda@gmail.com` — see [SECURITY.md](SECURITY.md). Please do not open public issues for vulnerabilities.
 
 ## Code of conduct
 
